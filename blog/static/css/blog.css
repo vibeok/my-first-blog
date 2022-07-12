@@ -1,3 +1,9 @@
+body {
+    background-image: url(https://yesmagazine.ru/media/cache/article_detail/uploads/articles/337/20201224/337879a6fd0f02f4e754d66d4f744618.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
 .page-header {
     background-color: #ff9400;
     margin-top: 0;
@@ -39,6 +45,9 @@ h1, h2, h3, h4 {
 
 .post {
     margin-bottom: 70px;
+    background-color: orange;
+    opacity: 70%;
+
 }
 
 .post h1 a, .post h1 a:visited {
